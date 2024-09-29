@@ -1,6 +1,6 @@
-# AutoValuate: Car Price Prediction Model
+# [AutoEstimatr: Car Price Prediction Model](https://autoestimatr.onrender.com/)
 
-**AutoValuate** is a linear regression-based model designed to predict car prices based on various features. This project aims to provide accurate estimates for car pricing, making it easier for buyers and sellers to understand vehicle value.
+**AutoEstimatr** is a linear regression-based model designed to predict car prices based on various features. This project aims to provide accurate estimates for car pricing, making it easier for buyers and sellers to understand vehicle value.
 
 ## Table of Contents
 
@@ -65,3 +65,7 @@ The model's performance is evaluated using the R² score, which indicates how we
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Live Demo
+
+You can try out the live demo of the car price prediction model [here](https://autoestimatr.onrender.com/).
